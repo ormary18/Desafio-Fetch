@@ -1,0 +1,31 @@
+[
+{
+ "id": 1,
+ "nombre": "Amira",
+ "Apellido": "Gonzalez",
+ "direccion": "Juan Bautista Alberdi 500",
+ "telefono": 1128829286,
+ "puesto": "Analista contable"
+
+
+
+},{
+    "id": 2,
+    "nombre": "Sabrina",
+    "Apellido": "Torres",
+    "direccion": "Araoz 2230",
+    "telefono": 1140608257,
+    "puesto": "Analista financiero"
+ 
+
+}, {
+    "id": 3,
+    "nombre": "Orlando",
+    "Apellido": "Carballo",
+    "direccion": "thames 2252",
+    "telefono": 1135432899,
+    "puesto": "Analista de RRHH"
+   
+}
+
+]
