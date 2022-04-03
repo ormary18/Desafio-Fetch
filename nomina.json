@@ -26,6 +26,22 @@
     "telefono": 1135432899,
     "puesto": "Analista de RRHH"
    
+},
+{
+    "id": 4,
+    "nombre": "Maria",
+    "Apellido": "Montalvo",
+    "direccion": "Juan Bautista Alberdi 200",
+    "telefono": 1134527435,
+    "puesto": "Analista de Gerencia"
+    
+},
+{
+    "id": 5,
+    "nombre": "Joselin",
+    "Apellido": "Escobar",
+    "direccion": "Araoz 2230",
+    "telefono": 1132312657,
+    "puesto": "Gerente General"
 }
-
 ]
